@@ -1,0 +1,6 @@
+python-binance
+streamlit
+pandas
+pandas-ta
+plotly
+streamlit-autorefresh
