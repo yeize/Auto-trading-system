@@ -1,0 +1,6 @@
+config.ini
+status.json
+trading_bot.log
+__pycache__/
+*.pyc
+# 필요에 따라 다른 민감 파일이나 불필요한 파일 추가
